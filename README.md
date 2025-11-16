@@ -1,1 +1,1 @@
-# THZZ2025-Python_competition
+# THZZ2025-Skill_Team
