@@ -1,1 +1,1 @@
-# THZZ2025-Python_competition-Album
+# THZZ2025-Python_competition
